@@ -1,7 +1,6 @@
-kjvnumerics.com
+KJVNumerics.com
 ========================
 
-KJVNumerics.com Project
 This project is in it's initial startup phase. The intention is to turn kjvnumerics.com into a full fledge application
 in which users can search out the numerical meaning in the King James Version of the Bible.
 
